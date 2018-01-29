@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+span {
+	font-weight: bold;
+	color: blue;
+}
